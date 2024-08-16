@@ -1,3 +1,3 @@
 # breast_cancer_detection
 
-This model detects the breast cancer with accuracy over %95.
+This deep learning model detects the breast cancer with accuracy over %95.
